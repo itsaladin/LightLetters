@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.parcel_and_courier_management_system"
+        applicationId "com.lightletters"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

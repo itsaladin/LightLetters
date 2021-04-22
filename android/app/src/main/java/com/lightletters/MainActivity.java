@@ -1,4 +1,4 @@
-package com.parcel_and_courier_management_system;
+package com.lightletters;
 
 import com.facebook.react.ReactActivity;
 
